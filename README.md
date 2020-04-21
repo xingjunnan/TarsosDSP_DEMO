@@ -1,4 +1,4 @@
 # TarsosDSP_DEMO
 Java实现变音功能demo
 
-结合Java开源框架TarsosDSP实现变声功能，Android目录下，main方法内通过调用不同的音频，实现将原声转换成萝莉音、大叔音等类似QQ变声的功能。
+结合Java开源框架TarsosDSP实现变声功能，在Android目录下的main方法内通过调用调整不同的音频，实现将原声转换成萝莉音、大叔音等类似QQ变声的功能。
